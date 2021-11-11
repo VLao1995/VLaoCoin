@@ -1,26 +1,21 @@
-This repo cover creating your own crptocurrency using multiple methods and various blockchains
+#### This repo cover creating your own crptocurrency using multiple methods and various blockchains
 
-## Ethereum Blockchain: ERC20
+VLaoCoin on Binance Smart chain: https://bscscan.com/token/0xf8bff7ed2081de936d86997fa7c24a4c9300d6d2
 
-Tiktok Showcase: https://lnkd.in/d9p55uaa
+Tiktok video on deployment: https://lnkd.in/d9p55uaa
 
-Video guide: https://www.youtube.com/watch?v=d5EipPVafsA&ab_channel=IvanonTech
+Tiktok video on buying VLao Coin: 
 
-Written guide: https://medium.com/interfacing-with-a-blockchain/deploy-and-verify-ca9dcf9e6cd3
+--------------
 
-Estimated cost breakdown of deploying on to Ethereum main net: https://medium.com/the-capital/how-much-does-it-cost-to-deploy-a-smart-contract-on-ethereum-11bcd64da1
+## Solana 
 
-## Binance Chain: BEP20 (Uses the same code as ERC-20)
+Video guide: https://www.youtube.com/watch?v=1cn-HnG_yns&ab_channel=LoopCreativeAndy
 
-Understanding differences between Binance & Ethereum chain: https://www.youtube.com/watch?v=UqG6ZQxHMuk
 
-ERC20 VS BEP20: https://intercom.help/midas-50092e8675b2/en/articles/5250253-explanation-of-the-differences-between-erc-20-and-bep-20-tokens
-
-Setup BNB Wallet: https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
-
-Written Guide https://www.quicknode.com/guides/solidity/how-to-create-a-bep20-token
-
-Guide on selling: https://www.youtube.com/watch?v=K8JoqxOVSaY&ab_channel=Fomotion
 
 ## VLao Coin From Scratch:
 Video Guide: https://www.youtube.com/watch?v=malwhCwEosk
+
+
+initial_supply: 10000000000000000000000000
