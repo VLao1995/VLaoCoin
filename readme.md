@@ -1,4 +1,4 @@
-# VLao Coin
+# VLaoCoin
 
 -----------
 
